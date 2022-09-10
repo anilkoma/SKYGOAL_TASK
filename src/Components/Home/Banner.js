@@ -13,10 +13,10 @@ const Banner = () => {
                         <span className='red'>Informational Technology</span></h1>
                     <p>Managed by a team professional experts with extensive experiance and impressive track records</p>
 
-                    <button className='red_button btn rounded-0 text-white p-2 px-3'>Read More</button>
+                    <button className='red_button btn rounded-1 text-white p-2 px-3'>Read More</button>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                    <img src={banner} class="d-block w-100" alt="..." />
+                    <img src={banner} class="d-block w-100" data-aos="fade-left" data-aos-duration="2000" alt="..." />
                 </div>
             </div>
 

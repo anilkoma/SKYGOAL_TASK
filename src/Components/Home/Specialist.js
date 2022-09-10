@@ -20,7 +20,7 @@ const Specialist = () => {
 
 
                     <div class="col-lg-3 col-md-6 col-sm-12 col-12">
-                        <div className='shadow-lg p-3 rounded-2'>
+                        <div className='shadow-lg p-3 rounded-2' data-aos="flip-left" data-aos-duration="2000">
                             <div className='d-flex justify-content-center'>
                                 <img src={person1} alt="" />
                             </div>
@@ -39,7 +39,7 @@ const Specialist = () => {
 
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 col-12">
-                        <div className=' shadow-lg p-3 rounded-2'>
+                        <div className=' shadow-lg p-3 rounded-2' data-aos="flip-left" data-aos-duration="2000">
                             <div className='d-flex justify-content-center'>
                                 <img src={person2} alt="" />
                             </div>
@@ -60,7 +60,7 @@ const Specialist = () => {
                     </div>
 
                     <div class="col-lg-3 col-md-6 col-sm-12 col-12 ">
-                        <div className='shadow-lg p-3 rounded-2'>
+                        <div className='shadow-lg p-3 rounded-2' data-aos="flip-left" data-aos-duration="2000">
                             <div className='d-flex justify-content-center '>
                                 <img src={person3} alt="" />
                             </div>
@@ -81,7 +81,7 @@ const Specialist = () => {
 
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 col-12 ">
-                        <div className=' shadow-lg p-3 rounded-2'>
+                        <div className=' shadow-lg p-3 rounded-2' data-aos="flip-left" data-aos-duration="2000">
                             <div className='d-flex justify-content-center'>
                                 <img src={person4} alt="" />
                             </div>
