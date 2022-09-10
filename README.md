@@ -8,4 +8,4 @@
 * javascript
 * CSS3
 
-### This project is mobile, tap and desktop responsive  
+### This project is Mobile, Tab and also Desktop responsive  
