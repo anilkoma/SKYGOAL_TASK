@@ -7,5 +7,6 @@
 * Bootstrap
 * javascript
 * CSS3
-
+* AOS Animation Lobrary
+* React-typewriter-effect
 ### This project is Mobile, Tab and also Desktop responsive  
