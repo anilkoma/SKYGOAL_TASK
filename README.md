@@ -1,8 +1,8 @@
 # Dwidasa Samsara Indonesia (DSI)
 
-#Live link is here: [https://skygoal-task-mithila.netlify.app/](https://skygoal-task-mithila.netlify.app/).
+## Live link is here: [https://skygoal-task-mithila.netlify.app/](https://skygoal-task-mithila.netlify.app/).
 
-## technonogy used:
+### technonogy used:
 * react.js
 * Bootstrap
 * javascript
